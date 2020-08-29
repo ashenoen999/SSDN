@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63243410-b996-4fc7-a950-ba7f57d2c7a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sever_base_res2_dhaze_residual_show" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vh3p5dZaLFn5Z3vv6MwGxU8zHE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weight" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\cvproject\sever_base_res2_dhaze_residual_show" />
+      <recent name="D:\cvproject\sever_base_res2_dhaze_residual_show\image" />
+      <recent name="D:\cvproject\sever_base_res2_dhaze_residual_show\output" />
+      <recent name="D:\cvproject\sever_base_res2_dhaze_residual_show\新建文件夹 (3)" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.cut_img">
+    <configuration name="caculate_corre" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="res2_dhaze_residual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/caculate_corre.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="caculate_corre_res2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="res2_dhaze_residual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/caculate_corre_res2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cut_img" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="res2_dhaze_residual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cut_img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="res2_dhaze_residual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="res2_dhaze_residual" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cut_img" />
+        <item itemvalue="Python.caculate_corre" />
+        <item itemvalue="Python.caculate_corre_res2" />
+        <item itemvalue="Python.show" />
+        <item itemvalue="Python.search_file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63243410-b996-4fc7-a950-ba7f57d2c7a8" name="Default Changelist" comment="" />
+      <created>1577691679217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577691679217</updated>
+      <workItem from="1577691681806" duration="26000" />
+      <workItem from="1577691709463" duration="969000" />
+      <workItem from="1578054932585" duration="3044000" />
+      <workItem from="1578059427954" duration="496000" />
+      <workItem from="1578100876346" duration="1025000" />
+      <workItem from="1578104621980" duration="12000" />
+      <workItem from="1578107008603" duration="252000" />
+      <workItem from="1578373094396" duration="816000" />
+      <workItem from="1578546512997" duration="4065000" />
+      <workItem from="1578574767382" duration="1386000" />
+      <workItem from="1578620080615" duration="136000" />
+      <workItem from="1579157159044" duration="14705000" />
+      <workItem from="1580278070590" duration="79000" />
+      <workItem from="1580279191788" duration="884000" />
+      <workItem from="1580447419954" duration="14264000" />
+      <workItem from="1580564894336" duration="1202000" />
+      <workItem from="1580619876138" duration="11000" />
+      <workItem from="1580625676487" duration="3923000" />
+      <workItem from="1580795629994" duration="143000" />
+      <workItem from="1580796987016" duration="7881000" />
+      <workItem from="1580815549397" duration="14000" />
+      <workItem from="1580815789085" duration="6941000" />
+      <workItem from="1580885354844" duration="43000" />
+      <workItem from="1582532654100" duration="20621000" />
+      <workItem from="1582711602809" duration="1270000" />
+      <workItem from="1582883037545" duration="1950000" />
+      <workItem from="1582955480154" duration="2666000" />
+      <workItem from="1583053242389" duration="3743000" />
+      <workItem from="1583126691870" duration="187000" />
+      <workItem from="1583127354899" duration="27000" />
+      <workItem from="1583756043358" duration="2410000" />
+      <workItem from="1583847860818" duration="640000" />
+      <workItem from="1583981033246" duration="23000" />
+      <workItem from="1583995344360" duration="8451000" />
+      <workItem from="1584070591637" duration="3333000" />
+      <workItem from="1584079987965" duration="4087000" />
+      <workItem from="1584161236658" duration="1484000" />
+      <workItem from="1584170941564" duration="2566000" />
+      <workItem from="1584176565958" duration="5987000" />
+      <workItem from="1584244678858" duration="18000" />
+      <workItem from="1584276450707" duration="2283000" />
+      <workItem from="1584291077190" duration="429000" />
+      <workItem from="1584326956043" duration="13591000" />
+      <workItem from="1584413516588" duration="128000" />
+      <workItem from="1584415789323" duration="16433000" />
+      <workItem from="1584778322004" duration="1199000" />
+      <workItem from="1584862632109" duration="2392000" />
+      <workItem from="1585490164387" duration="2734000" />
+      <workItem from="1585533456357" duration="6223000" />
+      <workItem from="1585644698004" duration="930000" />
+      <workItem from="1585707951149" duration="901000" />
+      <workItem from="1585977555593" duration="3874000" />
+      <workItem from="1586699871385" duration="1998000" />
+      <workItem from="1586764758445" duration="2368000" />
+      <workItem from="1586846291802" duration="32000" />
+      <workItem from="1586846325591" duration="4366000" />
+      <workItem from="1586942982749" duration="12870000" />
+      <workItem from="1587030930299" duration="33000" />
+      <workItem from="1587031032640" duration="688000" />
+      <workItem from="1587036855634" duration="6364000" />
+      <workItem from="1587088293921" duration="7664000" />
+      <workItem from="1587197752006" duration="211000" />
+      <workItem from="1587197995545" duration="10105000" />
+      <workItem from="1587261458979" duration="4892000" />
+      <workItem from="1587360006460" duration="10107000" />
+      <workItem from="1587436994249" duration="2204000" />
+      <workItem from="1588650830987" duration="1686000" />
+      <workItem from="1588737476524" duration="918000" />
+      <workItem from="1588738396441" duration="1477000" />
+      <workItem from="1588942396908" duration="665000" />
+      <workItem from="1589092661092" duration="271000" />
+      <workItem from="1589092946338" duration="36000" />
+      <workItem from="1589093169770" duration="487000" />
+      <workItem from="1589093669470" duration="5031000" />
+      <workItem from="1589173260262" duration="1255000" />
+      <workItem from="1589176647360" duration="59000" />
+      <workItem from="1589447637609" duration="3271000" />
+      <workItem from="1589506026874" duration="7467000" />
+      <workItem from="1589520460756" duration="3785000" />
+      <workItem from="1589543903073" duration="1830000" />
+      <workItem from="1590821293572" duration="2541000" />
+      <workItem from="1590894196162" duration="2434000" />
+      <workItem from="1590928960362" duration="79000" />
+      <workItem from="1592481195238" duration="3081000" />
+      <workItem from="1592528060774" duration="10683000" />
+      <workItem from="1595241981639" duration="136000" />
+      <workItem from="1595242118216" duration="25000" />
+      <workItem from="1595243398517" duration="1510000" />
+      <workItem from="1595291091016" duration="826000" />
+      <workItem from="1595830172289" duration="2346000" />
+      <workItem from="1596011393313" duration="7383000" />
+      <workItem from="1596070836586" duration="26600000" />
+      <workItem from="1596243807649" duration="3804000" />
+      <workItem from="1596423460094" duration="2864000" />
+      <workItem from="1596526241089" duration="104000" />
+      <workItem from="1596591975687" duration="16577000" />
+      <workItem from="1596674923592" duration="3738000" />
+      <workItem from="1597045237372" duration="4843000" />
+      <workItem from="1597110600534" duration="1209000" />
+      <workItem from="1597210804898" duration="2072000" />
+      <workItem from="1597214321349" duration="2076000" />
+      <workItem from="1597388279408" duration="1095000" />
+      <workItem from="1597404851467" duration="743000" />
+      <workItem from="1597455013075" duration="84000" />
+      <workItem from="1597541598863" duration="2303000" />
+      <workItem from="1597629388227" duration="5322000" />
+      <workItem from="1597797714430" duration="3440000" />
+      <workItem from="1598689463676" duration="280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Deployment" timestamp="1589510343669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Deployment/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589510343669" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589510727877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589510727877" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1597392901588">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1596681989460" />
+    <state x="740" y="275" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597392901588" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596526344013" />
+    <state width="1877" height="236" key="GridCell.Tab.0.bottom" timestamp="1597846595199">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597846595199" />
+    <state width="1877" height="289" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597543829434" />
+    <state width="1877" height="236" key="GridCell.Tab.0.center" timestamp="1597846595199">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597846595199" />
+    <state width="1877" height="289" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597543829433" />
+    <state width="1877" height="236" key="GridCell.Tab.0.left" timestamp="1597846595199">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597846595199" />
+    <state width="1877" height="289" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597543829432" />
+    <state width="1877" height="236" key="GridCell.Tab.0.right" timestamp="1597846595199">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="236" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597846595199" />
+    <state width="1877" height="289" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597543829433" />
+    <state width="1877" height="267" key="GridCell.Tab.1.bottom" timestamp="1596092469614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="381" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1595848280588" />
+    <state width="1877" height="267" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596092469614" />
+    <state width="1877" height="267" key="GridCell.Tab.1.center" timestamp="1596092469614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="381" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1595848280588" />
+    <state width="1877" height="267" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596092469614" />
+    <state width="1877" height="267" key="GridCell.Tab.1.left" timestamp="1596092469614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="381" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1595848280588" />
+    <state width="1877" height="267" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596092469614" />
+    <state width="1877" height="267" key="GridCell.Tab.1.right" timestamp="1596092469614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="381" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1595848280588" />
+    <state width="1877" height="267" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596092469614" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1596074123480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1595830991686" />
+    <state x="461" y="162" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596074123480" />
+    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1597797730209">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1280" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1597797730209" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1597392864424" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596526241974" />
+    <state x="-1920" y="0" width="1604" height="785" maximized="true" key="dock-window-1" timestamp="1596594023564">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1920" y="0" width="1604" height="785" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1596594023564" />
+    <state x="838" y="251" key="ftp.server.browser" timestamp="1589510461018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="251" key="ftp.server.browser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1589510461018" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$only_test.coverage" NAME="only_test Coverage Results" MODIFIED="1582542976027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$show.coverage" NAME="show Coverage Results" MODIFIED="1597213379310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$caculate_corre_res2.coverage" NAME="caculate_corre_res2 Coverage Results" MODIFIED="1597632708011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$caculate_corre.coverage" NAME="caculate_corre Coverage Results" MODIFIED="1597633098372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$srresnet_6_3d.coverage" NAME="srresnet_6_3d Coverage Results" MODIFIED="1589522279046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/res2_dhaze_residual$main.coverage" NAME="main Coverage Results" MODIFIED="1577691823347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$cut_img.coverage" NAME="cut_img Coverage Results" MODIFIED="1597800746534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$wt_cut_img.coverage" NAME="wt_cut_img Coverage Results" MODIFIED="1587132493642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$fortest.coverage" NAME="fortest Coverage Results" MODIFIED="1584005572278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual$test.coverage" NAME="test Coverage Results" MODIFIED="1580469087071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual$show.coverage" NAME="show Coverage Results" MODIFIED="1580628839744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$Flops_papram.coverage" NAME="Flops_papram Coverage Results" MODIFIED="1589525587080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$show_image.coverage" NAME="show_image Coverage Results" MODIFIED="1587091445483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sever_base_res2_dhaze_residual_show$search_file.coverage" NAME="search_file Coverage Results" MODIFIED="1592535182758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
